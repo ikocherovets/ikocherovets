@@ -6,7 +6,7 @@ Currently at [TrackBoost](https://trackboost.com), building real-time analytics 
 
 #### 🛠️ What I work with
 
-Go · NestJS · TypeScript · PostgreSQL · MongoDB · Docker · AWS · React
+Go · NestJS · TypeScript · PostgreSQL · MongoDB · Docker · AWS · CI/CD · React
 
 #### 🎓 Recent learning
 
