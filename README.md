@@ -1,41 +1,18 @@
-<div align="center">
+### Hey, I'm Illia 👋
 
-# Illia Kocherovets
-**Software Engineer · Go · NestJS · TypeScript**
+I'm a software engineer based in Cracow, Poland. I build backend systems — mostly in **Go** and **NestJS** — with a focus on performance, clean architecture, and reliability.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-kocherovets-aba653214/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:illiakocherovets@gmail.com)
-[![Location](https://img.shields.io/badge/Cracow,_Poland-555?style=flat&logo=google-maps&logoColor=white)](#)
+Currently at [TrackBoost](https://trackboost.com), building real-time analytics pipelines and traffic integrations. Before that at [MGID](https://mgid.com), owning core AdTech backend systems for access control and high-throughput media buying workflows.
 
-</div>
+#### 🛠️ What I work with
 
----
+Go · NestJS · TypeScript · PostgreSQL · MongoDB · Docker · AWS · React
 
-Backend-focused engineer building scalable systems at **TrackBoost** — analytics pipelines, real-time integrations, and security features. Previously at **MGID** (AdTech) owning high-throughput APIs and access control systems.
+#### 🎓 Recent learning
 
----
+- **Complete Microservices in Go** — Udemy (2025)
 
-### Stack
+#### 📫 Find me
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
----
-
-### Certifications
-
-🎓 Complete Microservices in Go — Udemy (2025)
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikocherovets&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=true)
-
-</div>
+- LinkedIn: [illia-kocherovets](https://www.linkedin.com/in/illia-kocherovets-aba653214/)
+- Email: illiakocherovets@gmail.com
