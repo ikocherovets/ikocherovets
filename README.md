@@ -6,16 +6,16 @@ I'm particularly interested in applying software engineering to **scientific and
 
 ### 🛠 Tech Stack
 
-**Backend**
+**Backend**:
 Go · Python · Node.js · NestJS
 
-**Frontend**
+**Frontend**:
 React · TypeScript · JavaScript
 
-**Data**
+**Data**:
 PostgreSQL · MongoDB · Redis · ETL / Data Pipelines
 
-**Infrastructure**
+**Infrastructure**:
 Docker · Kubernetes · RabbitMQ · AWS · CI/CD · Linux
 
 ### 🧪 Background
