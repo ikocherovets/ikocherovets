@@ -1,9 +1,30 @@
-Software Engineer with a backend and data-engineering focus and a strong scientific background (MSc in Chemistry, cheminformatics/RDKit). Experienced in building RESTful APIs, ETL/data pipelines, and data-heavy services in Python and Go, as well as fullstack JavaScript/TypeScript applications (React on the frontend, Node.js/NestJS on the backend), with PostgreSQL and MongoDB. Comfortable in Linux, Docker, and containerized service-oriented architectures. Particularly interested in applying engineering to scientific and biomedical data.
+**Software Engineer** focused on **backend & data engineering**, with a background in **chemistry and cheminformatics**.
 
-Backend: Go, Python, Node.js, JavaSript, TypeScript
-Frontend: React
-Infrastructure: Docker, Kubernetes, RabbitMQ, AWS, CI/CD
-Databases: PostgreSQL, MongoDB, Redis
+I build APIs, data pipelines, and data-heavy services with **Python and Go**, as well as full-stack applications with **TypeScript/JavaScript**.
 
-- LinkedIn: [illia-kocherovets](https://www.linkedin.com/in/illia-kocherovets-aba653214/)
-- Email: illiakocherovets@gmail.com
+I'm particularly interested in applying software engineering to **scientific and biomedical data**.
+
+### 🛠 Tech Stack
+
+**Backend**
+Go · Python · Node.js · NestJS
+
+**Frontend**
+React · TypeScript · JavaScript
+
+**Data**
+PostgreSQL · MongoDB · Redis · ETL / Data Pipelines
+
+**Infrastructure**
+Docker · Kubernetes · RabbitMQ · AWS · CI/CD · Linux
+
+### 🧪 Background
+
+MSc in Chemistry with experience in **cheminformatics and RDKit**.
+
+I enjoy working at the intersection of **software engineering, data, and science**.
+
+### 📫 Contact
+
+* [LinkedIn](https://www.linkedin.com/in/illia-kocherovets-aba653214/)
+* [Email](mailto:illiakocherovets@gmail.com)
